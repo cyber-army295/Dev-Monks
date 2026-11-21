@@ -1,0 +1,6 @@
+{
+  "name": "Dev Monks",
+  "description": "AI-enhanced development services by Dev Monks. Get end-to-end solutions for web, mobile, and SaaS products built for growth and real users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
